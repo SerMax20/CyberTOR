@@ -1,16 +1,9 @@
-# Heroku-CyberTOR
-
-![GitHub](https://img.shields.io/github/license/shakilofficial0/Heroku-CyberTOR?label=license)
-![GitHub](https://img.shields.io/badge/Version-Beta-green)
-
 
 ### Quick Launch:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shakilofficial0/Heroku-CyberTOR)
 
-> Username: alpha
 
-> Password: alpha 
 
 Make sure There is no (space) at the start of User/Pass.
 
